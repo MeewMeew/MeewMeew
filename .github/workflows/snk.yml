@@ -1,0 +1,27 @@
+name: generate animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" 
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: assets/snk.svg
+      - name: push snk.svg to the main branch
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: snk
+          build_dir: assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
