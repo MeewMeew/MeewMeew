@@ -31,7 +31,11 @@
 
 <hr>
 
-![](https://raw.githubusercontent.com/MeewMeew/MeewMeew/snk/snk.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeewMeew/MeewMeew/snk/snk-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeewMeew/MeewMeew/snk/snk.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MeewMeew/MeewMeew/snk/snk.svg">
+</picture>
 
 ## 🌐 &nbsp;Contact Me
 <p>
