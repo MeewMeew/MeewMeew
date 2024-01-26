@@ -31,8 +31,6 @@
 
 <hr>
 
-![](https://raw.githubusercontent.com/MeewMeew/MeewMeew/snk/snk.svg)
-
 
 ## 🌐 &nbsp;Contact Me
 <p>
@@ -40,8 +38,8 @@
   <img hight="320" width="450" align="right" alt="GIF" src="assets/lie.gif">
   If you want to reach out to me about anything, be it some doubt just ping me （￣︶￣）✌️.
   <br>
-  <a href="https://www.instagram.com/mewdevpro/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/MeewMeew"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mewthedev/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/MeewMeewDev"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
 <p/>
 <br>
 <br>
