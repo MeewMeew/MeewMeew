@@ -21,7 +21,7 @@ jobs:
         run: pip install -r requirements.txt || true
 
       - name: Run update script
-        run: python update_readme.py
+        run: python update.py
 
       - name: Commit and push changes
         run: |
