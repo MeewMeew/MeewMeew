@@ -2,20 +2,20 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */2 * * *" 
+    - cron: "*/5 * * * *"
   workflow_dispatch:
   push:
     branches:
-    - main
+      - snk
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
-    steps: 
+
+    steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -23,8 +23,7 @@ jobs:
           outputs: |
             assets/snk.svg
             assets/snk-dark.svg?palette=github-dark
-          
-          
+
       - name: push snk.svg to the snk branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
