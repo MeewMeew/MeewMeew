@@ -3,8 +3,6 @@ name: Update README
 on:
   schedule:
     - cron: "*/5 * * * *" # Runs every 5 minutes
-  push:
-    branches: ["main"]
 
 jobs:
   update-readme:
@@ -26,10 +24,20 @@ jobs:
       - name: Run script to update README
         run: bun index.ts
 
-      - name: Commit and push changes
+      - name: Check for changes
+        id: changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_ENV
+          else
+            echo "changes=false" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and push changes
+        if: env.changes == 'true'
+        run: |
           git add README.md
           git commit -m "Update README"
           git push
