@@ -2,30 +2,27 @@
 
 ## :space_invader: &nbsp;About Me
 
-### - Learning :
+<pre><samp>root@mewthedev:~# <kbd>md5 -s "Hello world"</kbd>
+MD5 ("Hello world") = 3e25960a79dbc69b674cd4ec67a72c62
 
-- ✨ Full Stack Overflow =))
+root@mewthedev:~# <kbd>learning</kbd>
+Full Stack Overflow
 
-### - Hobbies :
+root@mewthedev:~# <kbd>hobbies</kbd>
+-> Learning new languages and technologies
+-> Watching science fiction movie
+-> Reading books
+-> Playing games
 
-- ✨ Learning new languages and technologies
-- ✨ Reading book
-- ✨ Watching science fiction movie
-- ✨ Playing games
-<hr>
+root@mewthedev:~# <kbd>time</kbd>
+12:00:00 2024-01-01 UTC +07:00
+
+root@mewthedev:~# █</samp></pre>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeewMeew/MeewMeew/snk/snk-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeewMeew/MeewMeew/snk/snk.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MeewMeew/MeewMeew/snk/snk.svg">
 </picture>
-
-<pre><samp>root@mewthedev:~# <kbd>md5 -s "Hello world"</kbd>
-MD5 ("Hello world") = 3e25960a79dbc69b674cd4ec67a72c62
-
-root@mewthedev:~# <kbd>time</kbd>
-12:00:00 2024-01-01
-
-root@mewthedev:~# █</samp></pre>
 
 ## 🌐 &nbsp;Contact Me
 
