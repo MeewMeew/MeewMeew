@@ -1,43 +1,34 @@
 <img src="./assets/header.svg"></img>
 
 ## :space_invader: &nbsp;About Me
+
 ### - Learning :
+
 - ✨ Full Stack Overflow =))
 
-### - Hobbies : 
+### - Hobbies :
+
 - ✨ Learning new languages and technologies
 - ✨ Reading book
 - ✨ Watching science fiction movie
-
-### - Main tech knowledge :
-
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
-![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
-![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-
+- ✨ Playing games
 <hr>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeewMeew/MeewMeew/snk/snk-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeewMeew/MeewMeew/snk/snk.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MeewMeew/MeewMeew/snk/snk.svg">
 </picture>
 
+<pre><samp>root@mewthedev:~# <kbd>md5 -s "Hello world"</kbd>
+MD5 ("Hello world") = 3e25960a79dbc69b674cd4ec67a72c62
+
+root@mewthedev:~# <kbd>time</kbd>
+2024-08-04T01:46:54.871Z
+
+root@mewthedev:~# █</samp></pre>
+
 ## 🌐 &nbsp;Contact Me
+
 <p>
   <br>
   <img hight="320" width="450" align="right" alt="GIF" src="assets/lie.gif">
@@ -45,20 +36,12 @@
   <br>
   <a href="https://www.instagram.com/mewthedev/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/MeewMeewDev"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
-<p/>
-<br>
-<br>
-<br>
+</p>
 <br>
 <hr/>
-
+<br>
 <p align="center">
  <a href="https://ko-fi.com/mewdevpro">
    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
  </a>
-</p>
-<br>
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=MeewMeew&style=plastic&label=Views" />
-<img src="https://badges.pufler.dev/visits/MeewMeew/MeewMeew?color=black&logo=github" />
 </p>
