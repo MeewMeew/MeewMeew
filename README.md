@@ -19,9 +19,9 @@ root@mewthedev:~# <kbd>time</kbd>
 
 root@mewthedev:~# █</samp></pre>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeewMeew/MeewMeew/snk/snk-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeewMeew/MeewMeew/snk/snk.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MeewMeew/MeewMeew/snk/snk.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snk-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/snk.svg">
+  <img alt="github contribution grid snake animation" src="assets/snk.svg">
 </picture>
 
 ## 🌐 &nbsp;Contact Me
