@@ -29,7 +29,10 @@ jobs:
       - name: Run update script
         run: python update.py
 
-      - name: Generate snake animation
+      - name: Remove existing snake animation
+        run: rm -f assets/snk.svg assets/snk-dark.svg
+
+      - name: Generate new snake animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}

@@ -18,6 +18,9 @@ root@mewthedev:~# <kbd>time</kbd>
 06:58:46 2024-08-06 UTC +07:00
 
 root@mewthedev:~# █</samp></pre>
+
+## 🚀 &nbsp;Contributions Count
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/snk-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/snk.svg">
