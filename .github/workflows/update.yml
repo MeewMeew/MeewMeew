@@ -45,7 +45,7 @@ jobs:
           git config --global user.name 'MeewMeew'
           git config --global user.email 'mauminh.nguyen@gmail.com'
           git add .
-          git commit -m "Auto-update README.md"
+          git commit -m "Update README.md"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
