@@ -23,8 +23,8 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Install dependency pytz
-        run: pip install pytz
+      - name: Install dependency requests
+        run: pip install requests
 
       - name: Run update script
         run: python update.py

@@ -14,9 +14,6 @@ root@mewthedev:~# <kbd>hobbies</kbd>
 -> Reading books
 -> Playing games
 
-root@mewthedev:~# <kbd>time</kbd>
-02:41:41 2024-08-10 UTC +07:00
-
 root@mewthedev:~# █</samp></pre>
 
 ## 🚀 &nbsp;Contributions Count
@@ -26,6 +23,15 @@ root@mewthedev:~# █</samp></pre>
   <source media="(prefers-color-scheme: light)" srcset="assets/snk.svg">
   <img alt="github contribution grid snake animation" src="assets/snk.svg">
 </picture>
+
+## 📖 &nbsp;Latest blog posts
+
+<!-- start-blog-posts -->
+
+#### ⏲️ &nbsp;Updated At: September 11, 2024 at 6:33:26 PM
+
+- [Shadcn Just Launched New CLI: A Major Update for 2024](http://localhost:3000/articles/shadcn-just-launched-new-cli-big-update-for-2024)
+<!-- end-blog-posts -->
 
 ## 🌐 &nbsp;Contact Me
 
