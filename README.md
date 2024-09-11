@@ -14,12 +14,6 @@ root@mewthedev:~# <kbd>hobbies</kbd>
 -> Reading books
 -> Playing games
 
-<<<<<<< HEAD
-=======
-root@mewthedev:~# <kbd>time</kbd>
-19:19:07 2024-09-11 UTC +07:00
-
->>>>>>> 44e682cf55d4b88e3c2634d7e635eca91b9c34f4
 root@mewthedev:~# █</samp></pre>
 
 ## 🚀 &nbsp;Contributions Count
@@ -33,10 +27,6 @@ root@mewthedev:~# █</samp></pre>
 ## 📖 &nbsp;Latest blog posts
 
 <!-- start-blog-posts -->
-
-#### ⏲️ &nbsp;Updated At: September 11, 2024 at 6:33:26 PM
-
-- [Shadcn Just Launched New CLI: A Major Update for 2024](http://localhost:3000/articles/shadcn-just-launched-new-cli-big-update-for-2024)
 <!-- end-blog-posts -->
 
 ## 🌐 &nbsp;Contact Me
