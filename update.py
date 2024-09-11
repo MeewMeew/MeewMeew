@@ -1,6 +1,6 @@
 import requests
 
-API_URL = 'http://localhost:3000/api/latest'
+API_URL = 'https://www.mewis.me/api/latest'
 MARKDOWN_FILE_PATH = 'README.md'
 
 def fetch_blog_posts():
