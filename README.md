@@ -27,6 +27,10 @@ root@mewthedev:~# █</samp></pre>
 ## 📖 &nbsp;Latest blog posts
 
 <!-- start-blog-posts -->
+
+#### ⏲️ &nbsp;Updated At: September 11, 2024 at 1:05:24 PM
+
+- [Shadcn Just Launched New CLI: A Major Update for 2024](https://www.mewis.me/articles/shadcn-just-launched-new-cli-big-update-for-2024)
 <!-- end-blog-posts -->
 
 ## 🌐 &nbsp;Contact Me
