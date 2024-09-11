@@ -28,8 +28,9 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: September 11, 2024 at 1:05:24 PM
+#### ⏲️ &nbsp;Updated At: September 11, 2024 at 1:17:25 PM
 
+- [Difference Between Scripting and Programming Languages](https://www.mewis.me/articles/difference-between-scripting-and-programming-languages)
 - [Shadcn Just Launched New CLI: A Major Update for 2024](https://www.mewis.me/articles/shadcn-just-launched-new-cli-big-update-for-2024)
 <!-- end-blog-posts -->
 
