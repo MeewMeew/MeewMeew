@@ -28,10 +28,10 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: September 12, 2024 at 2:10:57 PM
+#### ⏲️ &nbsp;Updated At: September 12, 2024 at 3:10:27 PM
 
 - [for vs forEach loop in javascript](https://www.mewis.me/articles/for-vs-foreach-loop-in-javascript)
-- [What is CommonJS Module in Javascript?](https://www.mewis.me/articles/what-is-commonjs-module-in-javascript)
+- [What is CommonJS Module in Javascript ?](https://www.mewis.me/articles/what-is-commonjs-module-in-javascript)
 - [Difference Between Scripting and Programming Languages](https://www.mewis.me/articles/difference-between-scripting-and-programming-languages)
 - [Shadcn Just Launched New CLI: A Major Update for 2024](https://www.mewis.me/articles/shadcn-just-launched-new-cli-big-update-for-2024)
 <!-- end-blog-posts -->
