@@ -28,7 +28,7 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: September 30, 2024 at 5:11:15 AM
+#### ⏲️ &nbsp;Updated At: September 30, 2024 at 6:16:14 AM
 
 - [for vs forEach loop in javascript](https://mewis.me/articles/for-vs-foreach-loop-in-javascript)
 - [What is CommonJS Module in Javascript ?](https://mewis.me/articles/what-is-commonjs-module-in-javascript)
