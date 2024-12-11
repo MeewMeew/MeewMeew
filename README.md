@@ -28,8 +28,9 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: December 11, 2024 at 12:56:47 AM
+#### ⏲️ &nbsp;Updated At: December 11, 2024 at 2:24:49 AM
 
+- [React Tech Stack [2025]](https://mewis.me/articles/react-tech-stack-2025)
 - [for vs forEach loop in javascript](https://mewis.me/articles/for-vs-foreach-loop-in-javascript)
 - [What is CommonJS Module in Javascript ?](https://mewis.me/articles/what-is-commonjs-module-in-javascript)
 - [Difference Between Scripting and Programming Languages](https://mewis.me/articles/difference-between-scripting-and-programming-languages)
