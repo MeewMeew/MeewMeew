@@ -28,7 +28,7 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: December 14, 2024 at 10:10:47 AM
+#### ⏲️ &nbsp;Updated At: December 14, 2024 at 11:08:35 AM
 
 - [React Tech Stack [2025]](https://mewis.me/articles/react-tech-stack-2025)
 - [for vs forEach loop in javascript](https://mewis.me/articles/for-vs-foreach-loop-in-javascript)
