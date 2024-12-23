@@ -28,7 +28,7 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: December 23, 2024 at 1:18:11 PM
+#### ⏲️ &nbsp;Updated At: December 23, 2024 at 2:10:11 PM
 
 - [Svelte vs React: Which Framework to Choose?](https://mewis.me/articles/svelte-vs-react-which-framework-to-choose)
 - [React Tech Stack [2025]](https://mewis.me/articles/react-tech-stack-2025)
