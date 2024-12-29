@@ -28,13 +28,13 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: December 29, 2024 at 4:11:26 PM
+#### ⏲️ &nbsp;Updated At: December 29, 2024 at 5:09:03 PM
 
+- [React 19: The Features You Need to Know!](https://mewis.me/articles/react-19-the-features-you-need-to-know)
 - [Svelte vs React: Which Framework to Choose?](https://mewis.me/articles/svelte-vs-react-which-framework-to-choose)
 - [React Tech Stack [2025]](https://mewis.me/articles/react-tech-stack-2025)
 - [for vs forEach loop in javascript](https://mewis.me/articles/for-vs-foreach-loop-in-javascript)
 - [What is CommonJS Module in Javascript ?](https://mewis.me/articles/what-is-commonjs-module-in-javascript)
-- [Difference Between Scripting and Programming Languages](https://mewis.me/articles/difference-between-scripting-and-programming-languages)
 <!-- end-blog-posts -->
 
 ## 🌐 &nbsp;Contact Me
