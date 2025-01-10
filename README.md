@@ -28,7 +28,7 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: January 10, 2025 at 2:15:49 AM
+#### ⏲️ &nbsp;Updated At: January 10, 2025 at 3:18:25 AM
 
 - [React 19: The Features You Need to Know!](https://mewis.me/articles/react-19-the-features-you-need-to-know)
 - [Svelte vs React: Which Framework to Choose?](https://mewis.me/articles/svelte-vs-react-which-framework-to-choose)
