@@ -28,7 +28,7 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: January 23, 2025 at 1:17:40 PM
+#### ⏲️ &nbsp;Updated At: January 23, 2025 at 2:10:13 PM
 
 - [10 JS Functions You Can't Ignore](https://mewis.me/articles/10-js-functions-you-cant-ignore)
 - [When To Use the ?? And || In JavaScript.](https://mewis.me/articles/when-to-use-the-and-in-javascript)
