@@ -28,7 +28,7 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: February 23, 2025 at 5:10:13 AM
+#### ⏲️ &nbsp;Updated At: February 23, 2025 at 6:14:05 AM
 
 - [Boost Your Tailwind Workflow with ESLint and Prettier](https://mewis.me/articles/boost-your-tailwind-workflow-with-eslint-and-prettier)
 - [Shadcn Registry: A Better Way to Manage Your UI Components](https://mewis.me/articles/shadcn-registry-a-better-way-to-manage-your-ui-components)
