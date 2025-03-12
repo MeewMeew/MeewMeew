@@ -28,13 +28,9 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: March 12, 2025 at 7:09:06 PM
+#### ⏲️ &nbsp;Updated At: March 12, 2025 at 8:12:24 PM
 
-- [Observantly try to use AbortController in JavaScript and React](https://mewis.me/articles/observantly-try-to-use-abortcontroller-in-javascript-and-react)
-- [Top 10 Custom Hooks for Every React Developer](https://mewis.me/articles/top-10-custom-hooks-for-every-react-developer)
-- [Boost Your Tailwind Workflow with ESLint and Prettier](https://mewis.me/articles/boost-your-tailwind-workflow-with-eslint-and-prettier)
-- [Shadcn Registry: A Better Way to Manage Your UI Components](https://mewis.me/articles/shadcn-registry-a-better-way-to-manage-your-ui-components)
-- [10 JS Functions You Can't Ignore](https://mewis.me/articles/10-js-functions-you-cant-ignore)
+
 <!-- end-blog-posts -->
 
 ## 🌐 &nbsp;Contact Me
